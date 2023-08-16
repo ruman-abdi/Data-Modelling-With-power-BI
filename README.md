@@ -1,2 +1,3 @@
 # Data-Modelling-With-power-BI
-Showing power Bi modelling
+Showcasing power Bi modelling
+
